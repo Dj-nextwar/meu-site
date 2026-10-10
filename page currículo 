@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Djalma </title>
+</head>
+<body>
+    <header>
+        <h1>Nome Sobrenome</h1>
+        <p>Profissão Desenvolvedor Web)</p>
+        <p>E-mail: seu.email@exemplo.com | Telefone: (11) 99999-9999</p>
+        <p>Local: São Paulo, SP | <a href="https://linkedin.com" target="_blank">LinkedIn</a></p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Resumo Profissional</h2>
+            <p>Profissional dedicado com experiência em estruturação de projetos, focado em entregar soluções eficientes e aprender novas tecnologias rapidamente.</p>
+        </section>
+
+        <section>
+            <h2>Experiência Profissional</h2>
+            <article>
+                <h3>Nome da Empresa</h3>
+                <p><strong>Cargo:</strong> Assistente de Projetos</p>
+                <p><em>Janeiro de 2023 – Presente</em></p>
+                <ul>
+                    <li>Responsável pela organização de dados e atendimento ao cliente.</li>
+                    <li>Melhoria nos processos internos da equipe.</li>
+                </ul>
+            </article>
+        </section>
+
+        <section>
+            <h2>Formação Acadêmica</h2>
+            <p><strong>Graduação em Exemplo</strong> Etec Fernando Prestes<br>
+            <em>Conclusão em 2027</em></p>
+        </section>
+
+        <section>
+            <h2>Habilidades</h2>
+            <ul>
+                <li>HTML5 e Estrutura Web</li>
+                <li>Organização e Gestão de Tempo</li>
+                <li>Comunicação Eficiente</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Djalma</p>
+    </footer>
+</body>
+</html>
